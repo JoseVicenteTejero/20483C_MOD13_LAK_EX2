@@ -7,5 +7,6 @@ RESUMEN
  Decrypt the data
  
 PROBLEMAS
+Adjunto mail evidencia de realización de la práctica no pudiendo terminar un paso por error indeterminado.
 La solución compila correctamente. Al ejecutarla, aparece la ventana para indicar dónde están los informes a desencriptar pero al pulsar 
 "print" no hace nada.
